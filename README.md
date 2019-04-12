@@ -5,7 +5,7 @@ y = log (base 2) x means the number x that 2 to the y power equals to.
 The graph is curved concave down and has a vertical asymptote at x = 0 (continuously approaching negative infinity) while as x approaches infinity, the graph slowly appraoches infinity.
 
 0. The problem - Find an element x from a list of ordered elements (that may or may not contain x) and return its index (or -1 if it is not in the list). 
-1. State the recursive abstraction - When asked to find an element x from a list of ordered elements with size n that may or may not contain x, the recursive abstraction can find the element x from a list of ordered elements with size n/2. 
+1. State the recursive abstraction - When I am asked to find an element x from a list of ordered elements with size n that may or may not contain x, the recursive abstraction can find the element x from a list of ordered elements with size n/2. 
 2. Identify the parts of this solution that correspond to the six parts of a generalized recursive solution.
 
     Solution to solving the base cases:
